@@ -1,0 +1,29 @@
+<DOCTYPE html>
+</html lang= "en">
+     <head>
+        <meta charset="utf-8"
+        <title>Nikolai Goodcase's WEB 110 Website
+        </head>
+<body>
+    <div class="content">
+        <h1 align="center">
+            Nikolai Goodcase's 
+            WEB 110 Website
+        </h1>
+        <h1>Assignment 1</h1>
+        <button onclick= >Assignment 1</button>
+        <h1>Assignment 2</h1>
+        <button onclick="document.location='default.asp'">Assignment 2</button>
+        <h1>Assignment 3</h1>
+        <button onclick="document.location='default.asp'">Assignment 3</button>
+        <h1>Assignment 4</h1>
+        <button onclick="document.location='default.asp'">Assignment 4</button>
+        <h1>Assignment 5</h1>
+        <button onclick="document.location='default.asp'">Assignment 5</button>
+        <h1>Assignment 6</h1>
+        <button onclick="document.location='default.asp'">Assignment 6</button>
+        <h1>Assignment 7</h1>
+        <button onclick="document.location='default.asp'">Assignment 7</button>
+        <h1>Assignment 8</h1>
+        <button onclick="document.location='default.asp'">Assignment 8</button>
+</html>

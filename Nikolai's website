@@ -11,19 +11,28 @@
             WEB 110 Website
         </h1>
         <h1>Assignment 1</h1>
-        <button onclick= >Assignment 1</button>
+        <p>Internet_Fundamentals</p>
+        <a href='https://github.com/ngoodcase/ngoodcase.github.io'><button>Link To Assignment 1</button></a>
         <h1>Assignment 2</h1>
-        <button onclick="document.location='default.asp'">Assignment 2</button>
+        <p>Web_Browsers</p>
+        <a href='https://github.com/ngoodcase/ngoodcase.github.io'><button>Link To Assignment 2</button></a>
         <h1>Assignment 3</h1>
-        <button onclick="document.location='default.asp'">Assignment 3</button>
+        <p>Search_Engines</p>
+        <a href='https://github.com/ngoodcase/ngoodcase.github.io'><button>Link To Assignment 3</button></a>
         <h1>Assignment 4</h1>
-        <button onclick="document.location='default.asp'">Assignment 4</button>
+        <p>Email</p>
+        <a href='https://github.com/ngoodcase/ngoodcase.github.io'><button>Link To Assignment 4</button></a>
         <h1>Assignment 5</h1>
-        <button onclick="document.location='default.asp'">Assignment 5</button>
+        <p>Social Media</p>
+        <a href='https://github.com/ngoodcase/ngoodcase.github.io'><button>Link To Assignment 5</button></a>
         <h1>Assignment 6</h1>
-        <button onclick="document.location='default.asp'">Assignment 6</button>
+        <p>IT_Careers</p>
+        <a href='https://github.com/ngoodcase/ngoodcase.github.io'><button>Link To Assignment 6</button></a>
         <h1>Assignment 7</h1>
-        <button onclick="document.location='default.asp'">Assignment 7</button>
+        <p>Networking</p>
+        <a href='https://github.com/ngoodcase/ngoodcase.github.io'><button>Link To Assignment 7</button></a>
         <h1>Assignment 8</h1>
-        <button onclick="document.location='default.asp'">Assignment 8</button>
+        <p>Security</p>
+        <a href='https://github.com/ngoodcase/ngoodcase.github.io'><button>Link To Assignment 8</button></a>
+      
 </html>

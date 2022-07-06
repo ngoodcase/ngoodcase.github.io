@@ -1,3 +1,9 @@
-#header {
-	background-color:#66CCFF
+body {
+    background-color: bisque;
 }
+#container {
+    background-color: white;
+}
+#header {
+	background-color:#5a5a5a
+}                       

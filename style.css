@@ -5,16 +5,5 @@ body {
     background-color: rgb(255, 223, 116);
 	width: 800px;
 	margin-left: auto;
-	margin-right: auto;
-	
-}
-#header {
-	background-color:#5a5a5a
-}   
-#content {
-		padding: 10px;
-}
-
-#footer {
-	clear: both;
+	margin-right: auto;	
 }

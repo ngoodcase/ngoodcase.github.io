@@ -1,6 +1,9 @@
 body {
 	background-color: #dadada;
 } 	
+#container {
+	background-color: white;
+}
 #div{
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	font-size:medium;

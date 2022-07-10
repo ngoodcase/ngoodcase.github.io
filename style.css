@@ -4,3 +4,10 @@ body {
 #content {
 	background-color: white;
 }
+#header {
+	background-color: lightblue;
+	color: white;
+	font-size: large;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

@@ -1,7 +1,7 @@
 body {
 	background-color: #dadada;
 } 	
-h1 {
-	font-size: medium;
-	margin: auto;
+title {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size:medium;
 }

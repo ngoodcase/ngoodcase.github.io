@@ -1,14 +1,14 @@
-body {
+#body {
 background-color: #b32100;
 }
-body {
+#body {
 	background-color: blanchedalmond;
 } 
 
-h1 {    
+#h1 {    
 	color: rgb(0, 0, 0);
 }
 
-p {
+#p {
 	color: rgb(0, 0, 0);
 }

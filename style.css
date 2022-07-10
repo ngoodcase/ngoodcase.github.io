@@ -6,7 +6,7 @@ body {
 }
 #header {
 	background-color: lightblue;
-	color: white;
+	color: rgb(0, 0, 0);
 	font-size: 32pt;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	text-align: center;

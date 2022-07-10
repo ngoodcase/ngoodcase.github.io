@@ -3,6 +3,7 @@ body {
 } 	
 #content {
 	background-color: white;
+	text-align: center;
 }
 #header {
 	background-color: lightblue;

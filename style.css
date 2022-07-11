@@ -19,7 +19,6 @@ a{
 	margin-left: auto;
 	margin-right: auto;
 	float: Left;
-	padding: 10px;
 }
 #nav {
 	text-align: right;
@@ -27,8 +26,6 @@ a{
 	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 	color: black;
 	width: 180px;
-	float: left;
-	clear: both;
 }
 #nav .selected {
 	font-weight: bold;
@@ -38,4 +35,17 @@ a{
 }
 #nav ul {
 	align-content: left;
+}
+#footer {	
+	clear: both;
+}
+h1{	
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-size: 20pt;
+}
+a {	
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p{
+	font-size: 25pt;
 }

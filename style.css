@@ -35,6 +35,7 @@ a{
 }
 #nav ul {
 	align-content: center;
+	float: inline-end;
 }
 #footer {	
 	clear: both;
@@ -45,6 +46,7 @@ h1{
 }
 a {	
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
 }
 p{
 	font-size: 25pt;

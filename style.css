@@ -32,6 +32,7 @@ a{
 }
 #content {
 	padding: 10px;
+	background-color: white;
 }
 #nav ul {
 	align-content: center;

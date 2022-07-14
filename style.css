@@ -18,7 +18,7 @@ a{
 	width: 600px;
 	margin-left: auto;
 	margin-right: auto;
-	float: right;
+	float: center;
 }
 #nav {
 	text-align: right;

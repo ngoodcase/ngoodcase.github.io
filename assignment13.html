@@ -5,34 +5,42 @@
     <title>Assignment13</title>
     <link href="style.css" rel="stylesheet" type="text/css">
     <style>
-        body {
-            background-color: #fff7ac;
-        }
-
-        #header {
-            background-color: rgb(184, 230, 173);
-            color: rgb(0, 0, 0);
-            font-size: 32pt;
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            text-align: center;
-        }
-
-        #paragraph {
-            text-align: center;
-            width: 800px;
-            margin-left: auto;
-            margin-right: auto;
-            font-family: fantasy;
-            font-size: larger;
-        }
+    body {
+	background-color: #fff7ac;
+    } 	
+    #header {
+	background-color: rgb(184, 230, 173);
+	color: rgb(0, 0, 0);
+	font-size: 32pt;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-align: center;
+    }
+    #paragraph {
+        text-align: center;
+	    width: 800px;
+	    margin-left: auto;
+	    margin-right: auto;
+        font-family: fantasy;
+        font-size: larger;
+    }
     </style>
+	<script>
+	document.getElementById("greeting").innerHTML = "This is a script";
+	</script>
+	<p id="text"></p>
+	<script>
+	document.getElementById("text").innerHTML = Date();
+	</script>
 </head>
 
 <body>
-    <div class="content">
+    <div class="content">         
         <h1>JavaScript</h1>
+		<p id="greeting">
+		Hi im Nikolai, and this is and example of a javascript script.
+        </p>
         <p>
-        This week's lesson took a look at everything JavaScript. What is javascript? Javascript is a programming
+		This week's lesson took a look at everything JavaScript. What is javascript? Javascript is a programming
         language that is one of the core technologies of the World Wide Web, next to HTML and CSS. Javascript adds
         programing to our web pages. This allows for an interactive user interface with the website. Javascript lets
         our webpage be dynamic and responsive to user input. Javascript can be implemented with the use of the

@@ -44,6 +44,7 @@ a{
 #Canvas {	
 	border: 2px dashed black;
 	align-content: center;
+	padding: 20px;
 }
 h1{	
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

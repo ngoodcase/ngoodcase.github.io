@@ -41,8 +41,9 @@ a{
 #footer {	
 	clear: both;
 }
-#canvus {	
+#Canvus {	
 	border: 2px solid black;
+	align-content: center;
 }
 h1{	
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;

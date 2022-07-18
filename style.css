@@ -41,8 +41,8 @@ a{
 #footer {	
 	clear: both;
 }
-#Canvus {	
-	border: 2px solid black;
+#Canvas {	
+	border: 2px dashed black;
 	align-content: center;
 }
 h1{	

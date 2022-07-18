@@ -14,25 +14,33 @@ c.beginPath();
 c.moveTo(50, 100);
 c.lineTo(50, 300);
 c.stroke()
+
 // Line
 c.beginPath();
 c.moveTo(50, 100);
 c.lineTo(100, 200);
 c.stroke()
+
 // Line
 c.beginPath();
 c.moveTo(50, 300);
 c.lineTo(100, 200);
 c.stroke()
 
-
 // Arc / Circle
 c.strokeStyle ='black'
 c.beginPath();
 c.arc(50, 100, 50, 0, Math.PI * 2, false);
 c.stroke();
+
 // Arc / Circle
 c.beginPath();
 c.arc(50, 300, 50, 0, Math.PI * 2, false);
 c.stroke();
 
+for (var i =0; i < 3; i++) {}
+var x = Math.random() * window.innerWidth;
+var y = Math.random() * window.innerHeight;
+c.beginPath();
+c.arc(x, y, 50, 0, Math.PI * 2, false);
+c.stroke();

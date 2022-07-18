@@ -4,7 +4,9 @@ window.addEventListener("load", () => {
 
     //resizing
     canvas.height = window.innerHeight;
-    canvas.width = window.innerWidth;    
+    canvas.width = window.innerWidth;  
+    
+    ctx.fillRect(50, 50, 200, 200);
 });
 
 window.addEventListener('resize, ')

@@ -60,12 +60,14 @@ h2{
 	font-size: 20pt;
 	text-align: left;
 	border-style: double;
+	background-color: #dadada;
 }
 h3{	
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 	font-size: 25pt;
 	text-align: center;
 	border-style: dotted;
+	background-color: rgb(199, 255, 255);
 }
 a {	
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;

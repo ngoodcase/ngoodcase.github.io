@@ -61,6 +61,12 @@ h2{
 	text-align: left;
 	border-style: double;
 }
+h3{	
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size: 25pt;
+	text-align: center;
+	border-style: dotted;
+}
 a {	
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 font-style: italic;

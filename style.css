@@ -65,3 +65,10 @@ p{
 	padding: 20px;
 	border: 1px royalblue;
 }
+il {	
+	list-style: circle;
+	color: black;
+ul {	
+	list-style: square;
+	color: black;
+}

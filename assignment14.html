@@ -25,16 +25,38 @@
         </p>
 
         <h3> 
-            Here are some examples of basic SQL commands
+            Here are some examples of Main SQL parameters
 		</h3>
 			<h2>
 		<ul type="circle">
+      <li>SLQ Select</li>
+      <li>SLQ Where</li>
+      <li>SLQ Order By</li>
+      <li>SLQ Insert<li>
+	  <li>SLQ Null</li>
+      <li>SLQ Update</li>
+	  <li>SLQ delete</li>
+	  <li>SLQ Function</li>
+	  <li>SLQ Like</li>
+	  <li>SLQ In</li>
+	  <li>SLQ Between</li>
+	  <li>SLQ Alias</li>
+	  <li>SLQ Join</li>
+	  <li>SLQ Group by</li>
+	  <li>SLQ Database</li>
+			</h2>
+			<h3> 
+            Here are some examples of Main SQL commands
+		</h3>
+            	<h2>
+		<ul type="circle">
+      <li>SLQ Select</li>
       <li>SELECT * FROM Customers;</li>
-      <li>SELECT CustomerName,City FROM Customers;</li>
-      <li>SELECT COUNT(CustomerID), Country FROM Customers GROUP BY Country;<li>
-	  <li>SELECT TOP 3 * FROM Customers;</li>
-      <li>UPDATE Customers SET ContactName='Alfred Schmidt', City='Frankfurt' WHERE CustomerID=1;</li>
-	  <li>INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country);</li>
+      <li>SELECT From city Customers;</li>
+      <li>SELECT DISTINCT Country FROM Customers;<li>
+	  <li>SELECT orders.order_id, suppliers.name FROM suppliers INNER JOIN orders ON suppliers.supplier_id = orders.supplier_id ORDER BY order_id;      </li>
+      <li>UPDATE Customers SET ContactName='Nikolai Goodman', City='Chicaigo' WHERE CustomerID=1;</li>
+	  <li>INSERT INTO Customers ( CustomerName, Adress, City, PostalCode, Country) VALUES( 'Amazon','Buckstreet 1809', 'Chicagio', '1872', USA')</li>
 	  <li>DELETE FROM table_name WHERE condition;</li>
 	  <li>DELETE FROM Customers WHERE CustomerName='Alfreds Futterkiste';</li>
 	  <li>DELETE FROM Customers WHERE Country = 'Norway';</il>
